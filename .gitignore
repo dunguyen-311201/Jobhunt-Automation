@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.next/
+.expo/
+.turbo/
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+# Du lieu ca nhan: KHONG commit (repo public)
+data/
+fixtures-private/
+*.xlsx
+*.tsbuildinfo

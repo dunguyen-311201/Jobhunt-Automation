@@ -1,0 +1,3 @@
+setup:
+  - project: jobhunt
+    config: dev
